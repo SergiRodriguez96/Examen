@@ -1,0 +1,47 @@
+.callout.primary {
+  background-color: #04B45F;
+}
+
+
+  .imatge1 {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    border: solid 4px #fefefe;
+    border-radius: 3px;
+    box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+    line-height: 0;
+    margin:10px auto;
+    display:block;
+  }
+
+  .FCB {
+    text-align: justify;
+    font-family:Helvetica,Futura,Arial,Verdana,sans-serif;
+  }
+
+.titol1 {
+  text-align: center;
+}
+
+.fons {
+  position: relative;
+  margin: 0 0 1rem 0;
+  padding: 1rem;
+  border: 1px solid rgba(10, 10, 10, 0.25);
+  border-radius: 3px;
+  background-color: #E6E6E6;
+  text-align: justify;
+  color: #0a0a0a; }
+
+  .imatge2 {
+    display: inline-block;
+    max-width: 65%;
+    margin-bottom: 1rem;
+    border: solid 4px #fefefe;
+    border-radius: 3px;
+    box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+    line-height: 0;
+    margin:10px auto;
+    display:block;
+  }
